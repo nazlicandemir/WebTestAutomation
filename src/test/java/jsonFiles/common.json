@@ -1,0 +1,30 @@
+{
+  "testData": [
+    {
+      "key": "cookiesButton",
+      "webType": "xpath",
+      "webValue": "//button[@id='onetrust-accept-btn-handler']"
+    },
+      {
+        "key": "girisYapButton",
+        "webType": "xpath",
+        "webValue": "//p[text()='Giriş Yap']"
+      },
+      {
+        "key": "emailInput",
+        "webType": "xpath",
+        "webValue": "//input[@id='login-email']"
+      },
+      {
+        "key": "passwordInput",
+        "webType": "xpath",
+        "webValue": "//input[@id='login-password-input']"
+      },
+      {
+        "key": "loginSubmitButton",
+        "webType": "xpath",
+        "webValue": "//button[@type='submit']"
+      }
+    ]
+
+}
